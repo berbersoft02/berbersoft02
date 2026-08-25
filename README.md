@@ -53,21 +53,6 @@ I'm an **Embedded Systems Engineer** passionate about IoT, hardware development,
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berbersoft02&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9A8AFB&icon_color=9A8AFB&text_color=C9D1D9&ring_color=9A8AFB"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbersoft02&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A8AFB&text_color=C9D1D9&hide=html,css"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=berbersoft02&theme=radical&hide_border=true&background=0D1117&stroke=9A8AFB&ring=9A8AFB&fire=FF6B6B&currStreakLabel=9A8AFB&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berbersoft02&theme=radical&hide_border=true" alt="Profile Details"/>
-</div>
-
 ## 🏆 Featured Projects
 
 ### 🔌 [IoT Smart Home System](https://github.com/berbersoft02/smart-home)
