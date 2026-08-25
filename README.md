@@ -70,17 +70,34 @@ Real-time power consumption tracker with web dashboard
 - **Tech:** ESP8266, Node.js, Chart.js
 - **Features:** Live graphs, alerts, historical data
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berbersoft02&custom_title=Contribution%20Graph&bg_color=0D1117&color=9A8AFB&line=9A8AFB&point=FFFFFF&area_color=9A8AFB&area=true&hide_border=true&title_color=9A8AFB" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=berbersoft02&custom_title=Contribution%20Activity&bg_color=0D1117&color=9A8AFB&line=B794F4&point=FFFFFF&area_color=9A8AFB&area=true&hide_border=true&title_color=9A8AFB" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berbersoft02&theme=radical&utcOffset=0" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berbersoft02&theme=radical" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berbersoft02&theme=radical" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berbersoft02&theme=radical" alt="Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=berbersoft02&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9A8AFB&icon_color=9A8AFB&text_color=C9D1D9&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=berbersoft02&theme=radical&hide_border=true&background=0D1117&stroke=9A8AFB&ring=9A8AFB&fire=FF6B6B&currStreakLabel=9A8AFB&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berbersoft02&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A8AFB&text_color=C9D1D9&border_radius=10&exclude_repo=repo1,repo2" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berbersoft02&theme=radical&utcOffset=0" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berbersoft02&theme=radical" alt="Repos Per Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berbersoft02&theme=radical" alt="Most Commit Language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berbersoft02&theme=radical" alt="Stats Summary"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berbersoft02/berbersoft02/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berbersoft02/berbersoft02/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berbersoft02/berbersoft02/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🤝 Let's Connect
