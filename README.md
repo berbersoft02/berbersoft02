@@ -61,7 +61,7 @@ I'm an **Embedded Systems Engineer** passionate about IoT, hardware development,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berbersoft02&theme=radical&hide_border=true&background=0D1117&stroke=9A8AFB&ring=9A8AFB&fire=FF6B6B&currStreakLabel=9A8AFB&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=berbersoft02&theme=radical&hide_border=true&background=0D1117&stroke=9A8AFB&ring=9A8AFB&fire=FF6B6B&currStreakLabel=9A8AFB&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -88,7 +88,14 @@ Real-time power consumption tracker with web dashboard
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berbersoft02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9A8AFB&line=9A8AFB&point=B8ABFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berbersoft02&custom_title=Contribution%20Graph&bg_color=0D1117&color=9A8AFB&line=9A8AFB&point=FFFFFF&area_color=9A8AFB&area=true&hide_border=true&title_color=9A8AFB" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berbersoft02&theme=radical&utcOffset=0" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berbersoft02&theme=radical" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berbersoft02&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berbersoft02&theme=radical" alt="Stats"/>
 </div>
 
 ## 🤝 Let's Connect
