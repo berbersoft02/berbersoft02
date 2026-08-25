@@ -1,4 +1,4 @@
-<h1 align="center">👋 Azul , I'm Said Ahrikenchikh</h1>
+<h1 align="center">👋 Hi, I'm Said Ahrikenchikh</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9A8AFB&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+%26+Hardware+Developer;Full+Stack+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/said-ahrikenchikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/berbersoft02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://berbersoft02-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9A8AFB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://berbersoft-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9A8AFB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:said.ahrikenchikh@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -29,7 +29,7 @@ I'm an **Embedded Systems Engineer** passionate about IoT, hardware development,
 - 💬 Ask me about **Arduino, ESP32, Raspberry Pi, and embedded C/C++**
 - 💡 Interested in **robotics, automation, and smart devices**
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/said-ahrikenchikh)**
-- 🌐 Portfolio: **[berbersoft02-portfolio.vercel.app](https://berbersoft02-portfolio.vercel.app/)**
+- 🌐 Portfolio: **[berbersoft-portfolio.vercel.app](https://berbersoft-portfolio.vercel.app/)**
 - ⚡ Fun fact: **I love turning ideas into working prototypes!**
 
 ## 🛠️ Tech Stack
@@ -92,8 +92,8 @@ Real-time power consumption tracker with web dashboard
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-ahrikenchikh)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berbersoft02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9A8AFB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berbersoft02-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9A8AFB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berbersoft-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:said.ahrikenchikh@example.com)
 
 </div>
 
