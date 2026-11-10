@@ -1,6 +1,6 @@
 # Said Ahrikenchikh
 
-Embedded Systems Engineer and Software Developer specializing in native Android applications (Kotlin) and IoT hardware (ESP32, STM32, Arduino). Experienced in bridging physical hardware, on-device machine learning, and modern software design.
+Embedded Systems Engineer and Software Developer specializing in mobile application development (Android / Kotlin, Flutter) and IoT hardware (ESP32, STM32, Arduino). Experienced in reverse engineering, on-device machine learning, and clean software architecture.
 
 [LinkedIn](https://linkedin.com/in/said-ahrikenchikh) · [Email](mailto:berbersoft15@gmail.com) · [GitHub](https://github.com/berbersoft02)
 
@@ -8,17 +8,23 @@ Embedded Systems Engineer and Software Developer specializing in native Android 
 
 ## About
 
-I hold a Master's in Embedded Systems Engineering. My work spans low-level firmware and hardware control to high-level mobile and web applications. Recent focus areas include on-device computer vision for accessibility, native Android architecture, and IoT telemetry nodes.
+I hold a Master's in Embedded Systems Engineering. My work spans firmware development, mobile engineering, and Android application security analysis. Recent projects include assistive AI for sign language translation, trilingual cross-platform utility apps, native Android health tracking, and application reverse engineering.
 
-* **Primary Stack:** Kotlin (Android), C/C++ (Embedded), TypeScript (Web)
+* **Primary Stack:** Kotlin (Android), Flutter / Dart, C/C++ (Embedded), TypeScript (Web)
 * **Hardware & Systems:** ESP32, STM32, Arduino, FreeRTOS, Sensors & Actuators, VHDL
+* **Reverse Engineering:** Smali/DEX bytecode patching, Apktool, JADX, Ghidra, PairIP bypass
 * **Languages:** Kabyle (Native), French (C1), English (C1), Arabic (Proficient)
 
 ---
 
 ## Selected Projects
 
-### Mobile & On-Device AI
+### Mobile & Cross-Platform Applications
+
+#### [Saydaliati — OpenStreetMap Pharmacy Locator](https://github.com/berbersoft02/saydaliati)
+A cross-platform mobile application built with Flutter and OpenStreetMap to find nearby open pharmacies without commercial API quotas. Includes live geolocation, dynamic opening-hours parsing, favorites, and full trilingual localization (Arabic RTL, French, English).
+* **Stack:** Flutter, Dart, OpenStreetMap, Overpass API, Geolocator, Provider
+* **Release:** [Download APK](https://github.com/berbersoft02/saydaliati/releases/latest)
 
 #### [Sign Language Translation System](https://github.com/berbersoft02/Traducteursignestext)
 *Master's Thesis Project*
@@ -28,10 +34,21 @@ An Android application for bidirectional communication between sign language use
 #### [SettiFlow — Smart Hydration & Health Monitor](https://github.com/berbersoft02/Setti)
 A native Android application built with modern architecture to track daily hydration targets with background scheduling and automated threshold alerts.
 * **Stack:** Kotlin, Jetpack Compose, Room DB, Coroutines, WorkManager
+* **Release:** [Download APK](https://github.com/berbersoft02/Setti/releases/latest)
 
 #### [Sorani-French Educational App](https://github.com/berbersoft02/SoraniFrenchApp)
 A language education application designed for Sorani Kurdish speakers learning French, featuring structured lesson workflows, localized interfaces, and interactive exercises.
 * **Stack:** Kotlin, Android SDK, Material Design 3
+* **Release:** [Download APK](https://github.com/berbersoft02/SoraniFrenchApp/releases/latest)
+
+---
+
+### Reverse Engineering & Security
+
+#### [LPlayer Ad-Free Mod & Reverse Engineering Analysis](https://github.com/berbersoft02/lplayer-adfree)
+Technical case study and modification of LPlayer. Successfully bypassed PairIP runtime integrity verification, neutralized interstitial and banner ad SDKs (Google Mobile Ads, Pangle, Audience Network), and reassembled optimized DEX bytecode for uninterrupted media playback.
+* **Stack:** Reverse Engineering, Smali, Apktool, JADX, DEX Patching, zipalign
+* **Release:** [Download APK](https://github.com/berbersoft02/lplayer-adfree/releases/latest)
 
 ---
 
@@ -61,11 +78,12 @@ A responsive web application for browsing and previewing curated wallpapers with
 
 ## Technical Skills
 
-* **Languages:** Kotlin, C, C++, Java, TypeScript, JavaScript, Python, VHDL
+* **Languages:** Kotlin, Dart, C, C++, Java, TypeScript, JavaScript, Python, Smali, VHDL
+* **Mobile & Cross-Platform:** Flutter, Android SDK, Jetpack Compose, Room, Coroutines, CameraX, WorkManager
 * **Embedded & Hardware:** ESP32, STM32, Arduino, PWM, I2C, SPI, UART, Sensors & Actuators
-* **Android Development:** Jetpack Compose, Room, Coroutines, CameraX, WorkManager, Material 3
+* **Reverse Engineering & Analysis:** Apktool, JADX-GUI, Ghidra, Smali, Bytecode Patching, zipalign
 * **Web Technologies:** Next.js, React, Three.js, Tailwind CSS, REST APIs
-* **Engineering Tools:** Android Studio, Git, Linux, VS Code, Proteus, Simulink
+* **Engineering Tools:** Android Studio, VS Code, Git, Linux, Gradle, Proteus, Simulink
 
 ---
 
