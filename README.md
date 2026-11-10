@@ -25,7 +25,7 @@ I hold a Master's in Embedded Systems Engineering. My work spans low-level firmw
 An Android application for bidirectional communication between sign language users and non-signers. Incorporates real-time on-device hand gesture tracking, classification, and text-to-speech synthesis.
 * **Stack:** Kotlin, Android SDK, MediaPipe, CameraX, Android Architecture Components
 
-#### SettiFlow — Smart Hydration & Health Monitor
+#### [SettiFlow — Smart Hydration & Health Monitor](https://github.com/berbersoft02/Setti)
 A native Android application built with modern architecture to track daily hydration targets with background scheduling and automated threshold alerts.
 * **Stack:** Kotlin, Jetpack Compose, Room DB, Coroutines, WorkManager
 
